@@ -3,8 +3,7 @@
 An intelligent system that uses AI to personalize and recommend healthy, diverse lunch box options based on supermarkt premution, dietary preferences and nutritional needs
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![[GitHub Stars](https://github.com/hozhao87/AI_lunch_box_recommender.svg)](https://github.com/hozhao87/AI_lunch_box_recommender/stargazers)
-[![Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://your-live-demo-link.com)
+
 
 
 ---

@@ -29,11 +29,6 @@ Briefly explain:
 
 ### Screenshots
 
-Include relevant screenshots or a demo GIF:
-
-![Screenshot of the project](https://github.com/hozhao87/AI_lunch_box_recommender/blob/main/Screenshot.jpg)
-[Recipe_example](https://github.com/hozhao87/AI_lunch_box_recommender/blob/main/weekly_recipes.txt)
-
 <img src="https://github.com/hozhao87/AI_lunch_box_recommender/blob/main/Screenshot.jpg" alt="Screenshot of the project" width="500"/>
 [Recipe_example](https://github.com/hozhao87/AI_lunch_box_recommender/blob/main/weekly_recipes.txt)
 

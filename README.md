@@ -94,4 +94,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Acknowledgments
 
-[Nod Coding Bootcamping](https://nodcoding.com)
+[Nod Coding Bootcamp](https://nodcoding.com)

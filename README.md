@@ -92,6 +92,3 @@ Refer to [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## Acknowledgments
-
-[Nod Coding Bootcamp](https://nodcoding.com)
